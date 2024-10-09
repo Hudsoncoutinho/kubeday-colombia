@@ -39,5 +39,3 @@ $ docker logs  container-id  2>&1 | grep "Bootstrap Password:"
 
 
 * Deploy Kubernetes
-Acessing another server - sudo ssh -i kcd-lima.pem ubuntu@ IP
-Version  install - 'v1.26.15+rke2r1' 
